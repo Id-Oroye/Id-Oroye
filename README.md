@@ -1,6 +1,6 @@
 👋 Hello. I am Oroye Idowu David.
  
-👀 I have been passionate about computers and technology since a very young age and I recently began learning Frontend Web Development. I am currently a newbie and have been learning HTML, CSS and JS with considerable improvements.
+👀 I have been passionate about computers and technology since a very young age and I recently began learning FullStack Web Development. I am currently a newbie and have been learning HTML, CSS and JS with considerable improvements.
 
 💞️ I am currently interested in any tips and ideas that will help me become a better Frontend Web Developer, so any advice is really appreciated because I am self-studying.
 
